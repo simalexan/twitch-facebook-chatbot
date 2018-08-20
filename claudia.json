@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "twitch-facebook-chatbot-executor",
+    "name": "twitch-facebook-chatbot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "82zaf8m021",
+    "module": "index"
+  }
+}
