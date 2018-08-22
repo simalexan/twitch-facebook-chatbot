@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/simalexan/twitch-facebook-chatbot#readme",
   "dependencies": {
-    "claudia-bot-builder": "^4.3.1"
+    "claudia-bot-builder": "^4.3.1",
+    "aws-sdk": "^2.298.0"
   }
 }
